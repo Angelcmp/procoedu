@@ -699,6 +699,42 @@ header.sticky{
 	text-align: justify;
 }
 
+/* section newlestter */
+
+.newsletter {
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+  }
+  
+  .newsletter .section-title { 
+	margin-block-end: 30px; 
+}
+  
+  .input-wrapper { 
+	position: relative; 
+}
+  
+  .email-field {
+	background-color: #ffffff;
+	color: inherit;
+	height: 60px;
+	padding-inline: 45px 20px;
+	border-radius: 6px;
+	margin-block-end: 20px;
+  }
+  
+  .input-wrapper ion-icon {
+	position: absolute;
+	top: 50%;
+	left: 20px;
+	transform: translateY(-50%);
+	
+  }
+  
+
+
 
 /* Reponsive */
 @media (max-width: 1060px){
