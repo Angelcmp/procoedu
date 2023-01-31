@@ -159,10 +159,12 @@ section{
 }
 
 header.sticky{
-    background: #ffffff;
+    background: #1F574D;
     padding: 12px 13%;
     box-shadow: 10px 4px 15px rgb(0 0 0 / 10%);
+	color: var(--main-color);
 }
+
 
 .container{
 	padding: 70px 13%;
